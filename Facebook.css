@@ -1,0 +1,35 @@
+header{
+    background-color:royalblue ;
+    text-align: center;
+    color: whitesmoke;
+}
+.me{
+    text-align: left;
+}
+h2{
+    font-weight: 200;
+}
+p{
+    font-weight: 100;
+}
+.my{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: royalblue;
+}
+h5{
+    text-align: center;  
+}
+span{
+    color: royalblue;
+}
+.create-account-btn{
+    background-color: green;
+    color: whitesmoke;
+}
+body{
+    text-align: center;
+    background-color: rgb(173, 192, 228);
+}
